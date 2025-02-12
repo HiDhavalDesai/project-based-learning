@@ -1,11 +1,8 @@
-These are all the languages and projects I have used to learn to code.<br>
+These are all the languages and projects I know.<br>
+I am a self-taught software developer. <br>
 <ol>
 <li><strong>HTML/CSS</strong></li>
     <ul>
-        <li><strong>Lectures</strong></li>
-            <ol>
-                <li></li>
-            </ol>
         <li><strong>Projects</strong></li>
             <ol>
                 <li></li>
