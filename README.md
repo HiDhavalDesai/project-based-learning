@@ -1,4 +1,4 @@
-These are all the languages and projects I know.<br>
+These are all the languages I know.<br>
 I am a self-taught software developer. <br>
 <ol>
 <li><strong>HTML/CSS</strong></li>
