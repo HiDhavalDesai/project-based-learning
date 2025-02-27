@@ -6,16 +6,46 @@ You can connect with me on: <br>
 <ol>
 <li><strong><a href="">HTML</a></strong></li>
 <li><strong><a href="">CSS</a></strong></li>
-<li></li>
-<li></li>
+<li><strong><a href="">Bootstrap</a></strong></li>
+<li><strong><a href="">Javascript</a></strong></li>
 <li></li>
 </ol><br>
 <strong>Projects:</strong>
-<ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ol>
+<ul>
+    <li><strong>HTML</strong></li>
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ol>
+    <li><strong>HTML & CSS</strong></li>
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ol>
+    <li><strong>HTML & BOOTSTRAP</strong></li>
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ol>
+    <li><strong>HTML & CSS & JAVASCRIPT</strong></li>
+        <ol>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        </ol>
+</ul>
