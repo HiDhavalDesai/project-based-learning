@@ -4,7 +4,7 @@ You can connect with me on: <br>
 
 <strong>Languages:</strong>
 <ol>
-<li><strong><a href="">HTML</a></strong></li>
+<li><strong><a href="projects\html-projects">HTML</a></strong></li>
 <li><strong><a href="">CSS</a></strong></li>
 <li><strong><a href="">Bootstrap</a></strong></li>
 <li><strong><a href="">Javascript</a></strong></li>
@@ -14,7 +14,7 @@ You can connect with me on: <br>
 <ul>
     <li><strong>HTML</strong></li>
         <ol>
-        <li></li>
+        <li><a href="projects\html-projects\tables.html">Creating a Table</a></li>
         <li></li>
         <li></li>
         <li></li>
