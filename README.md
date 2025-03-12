@@ -5,7 +5,7 @@ Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavalde
 These are the languages I am familiar with
 <table border="1">
     <tr>
-    <th>HTML</th>
+    <th><a href="/html-css-lectures/">HTML</a></th>
     </tr>
     <tr>
     <th>CSS</th>
@@ -14,7 +14,7 @@ These are the languages I am familiar with
     <th>JavaScript</th>
     </tr>
     <tr>
-    <th>Python</th>
+    <th><a href="/python-lectures/">Python</a></th>
     </tr>
 </table>
 
@@ -25,9 +25,29 @@ These are all the projects I have created: <br>
         <th>Title</th>
         <th>Description</th>
     </tr>
-    <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        </tr>
 </table>
