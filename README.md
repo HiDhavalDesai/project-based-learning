@@ -1,6 +1,6 @@
 ## Welcome to my Project Based Learning Repo.
 I am a self-taught Engineer.<br>
-Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn </a>|
+Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn</a> |
 <br><br>
 These are the languages I am familiar with
 <table border="1">
