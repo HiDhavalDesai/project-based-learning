@@ -1,57 +1,33 @@
-These are all the languages I know.<br>
-I am a self-taught software developer. <br>
-You can connect with me on: <br>
-
-<strong>Languages:</strong>
-
-
-<strong>Projects:</strong>
+## Welcome to my Project Based Learning Repo.
+I am a self-taught Engineer.<br>
+Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn </a>|
+<br><br>
+These are the languages I am familiar with
 <table border="1">
     <tr>
-        <th>
-        </th>
-        <th>
-        </th>
+    <th>HTML</th>
+    </tr>
+    <tr>
+    <th>CSS</th>
+    </tr>
+    <tr>
+    <th>JavaScript</th>
+    </tr>
+    <tr>
+    <th>Python</th>
     </tr>
 </table>
 
-
-<strong>Projects:</strong>
-<ul>
-    <li><strong>HTML</strong></li>
-        <ol>
-        <li><a href="projects\html-projects\tables.html">Creating a Table</a></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        </ol>
-    <li><strong>HTML & CSS</strong></li>
-        <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        </ol>
-    <li><strong>HTML & BOOTSTRAP</strong></li>
-        <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        </ol>
-    <li><strong>HTML & CSS & JAVASCRIPT</strong></li>
-        <ol>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        </ol>
-</ul>
+These are all the projects I have created: <br>
+<table border="1">
+    <tr>
+        <th>Language</th>
+        <th>Title</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    </tr>
+</table>
