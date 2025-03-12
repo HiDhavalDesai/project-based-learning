@@ -3,13 +3,19 @@ I am a self-taught software developer. <br>
 You can connect with me on: <br>
 
 <strong>Languages:</strong>
-<ol>
-<li><strong><a href="projects\html-projects">HTML</a></strong></li>
-<li><strong><a href="">CSS</a></strong></li>
-<li><strong><a href="">Bootstrap</a></strong></li>
-<li><strong><a href="">Javascript</a></strong></li>
-<li></li>
-</ol><br>
+
+
+<strong>Projects:</strong>
+<table border="1">
+    <tr>
+        <th>
+        </th>
+        <th>
+        </th>
+    </tr>
+</table>
+
+
 <strong>Projects:</strong>
 <ul>
     <li><strong>HTML</strong></li>

@@ -1,19 +1,13 @@
 Learning Python
-<li><a href="python-lectures\lecture_1.py">Lecture 1 - Print Statements</a></li>
-<li><a href="python-lectures\lecture_2.py">Lecture 2 - Variables</a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<table border="1">
+    <tr>
+    <th><a href="./python-lectures\lecture_1.py">Print Statement</a></th>
+    <th>Learning to print hello world; into the console.</th>
+    </tr>
+    <tr>
+    <th><a href="./python-lectures\lecture_2.py">Variables</a></th>
+    <th>How to define a variable and the different types.</th>
+    </tr>
+
+    
+</table>

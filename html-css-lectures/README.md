@@ -1,19 +1,35 @@
 Learning HTML & CSS
-<li><a href="">Lecture 1 </a></li>
-<li><a href="">Lecture 2 </a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
-<li><a href=""></a></li>
+<table border="1">
+    <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+        <tr>
+    <th></th>
+    <th></th>
+    </tr>
+</table>
