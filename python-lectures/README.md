@@ -17,13 +17,13 @@ I was able to learn python by watching youtube videos and creating projects.
     </tr>
     <tr>
     <th>Lesson 3</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="./lecture_3.py">Typecasting</a></th>
+    <th>How to convert a variable from one data type to another</th>
     </tr>
     <tr>
     <th>Lesson 4</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="./lecture_4.py">Input</a></th>
+    <th>Learning how to prompt the user to enter data. </th>
     </tr>
     <tr>
     <th>Lesson 5</th>
