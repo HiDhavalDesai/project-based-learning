@@ -7,22 +7,22 @@ I was able to learn python by watching youtube videos and creating projects.
     </tr>
     <tr>
     <th>Lesson 1</th>
-    <th><a href="./python-lectures\lecture_1.py">Print Statement</a></th>
+    <th><a href="lecture_1.py">Print Statement</a></th>
     <th>Learning to print hello world; into the console.</th>
     </tr>
     <tr>
     <th>Lesson 2</th>
-    <th><a href="./python-lectures\lecture_2.py">Variables</a></th>
+    <th><a href="lecture_2.py">Variables</a></th>
     <th>How to define a variable and the different data types.</th>
     </tr>
     <tr>
     <th>Lesson 3</th>
-    <th><a href="./lecture_3.py">Typecasting</a></th>
+    <th><a href="lecture_3.py">Typecasting</a></th>
     <th>How to convert a variable from one data type to another</th>
     </tr>
     <tr>
     <th>Lesson 4</th>
-    <th><a href="./lecture_4.py">Input</a></th>
+    <th><a href="lecture_4.py">Input</a></th>
     <th>Learning how to prompt the user to enter data. </th>
     </tr>
     <tr>
