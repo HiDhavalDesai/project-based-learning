@@ -27,12 +27,12 @@ I was able to learn python by watching youtube videos and creating projects.
     </tr>
     <tr>
     <th>Lesson 5</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_5.py">Madlib Game</a></th>
+    <th>Creating a Madlib game, to become more comfortable with inputs</th>
     </tr>
     <tr>
     <th>Lesson 6</th>
-    <th><a href=""></a></th>
+    <th><a href="lecture_6.py">Arithmatic & Math</a></th>
     <th></th>
     </tr>
     <tr>
