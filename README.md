@@ -15,9 +15,9 @@ These are all the projects I have created: <br>
         <td>You are asked multiple questions for inputs, which will then create a story.</td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML</td>
+        <td><a href="/html-css-projects/lyrics.html">Lyrics</a></td>
+        <td>Creating a page for music Lyrics</td>
         </tr>
         <tr>
         <td></td>
