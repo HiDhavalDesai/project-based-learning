@@ -1,5 +1,10 @@
-I was able to learn HTML & CSS by watching youtube videos and creating projects.<br>
-Resources: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developers Network</a> for HTML
+I was able to learn HTML & CSS by watching youtube videos and creating projects.<br><br>
+Resources: <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developers Network for HTML</a> <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Developers Network for CSS</a> <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developers Network for Javascript</a>
+<br>
+
 <table border="1">
     <tr>
         <th>Lesson</th>
@@ -43,28 +48,28 @@ Resources: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla D
     </tr>
     <tr>
     <th>Lesson 8</th>
-    <th><a href="">Span & Divs Tags</a></th>
-    <th></th>
+    <th><a href="lecture_8.html">Span & Divs Tags</a></th>
+    <th>What is a span tag & What is a Div tag; these will be explored more during CSS</th>
     </tr>
     <tr>
     <th>Lesson 9</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_9.html">Orders lists & Unordered List & Description Lists</a></th>
+    <th>There are three different types of lists, an unordered list, which can be like a grocery list, an ordered list which can be a to do list and then finally a description list, which can be used to define terms.</th>
     </tr>
     <tr>
     <th>Lesson 10</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_10.html">Tables</a></th>
+    <th>Creating store hours in table format using HTML</th>
     </tr>
     <tr>
     <th>Lesson 11</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_11.html">Buttons</a></th>
+    <th>Creating and using buttons</th>
     </tr>
     <tr>
     <th>Lesson 12</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_12.html">Forms</a></th>
+    <th>Using HTML, we can create forms</th>
     </tr>
     <tr>
     <th>Lesson 13</th>
@@ -73,6 +78,61 @@ Resources: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla D
     </tr>
     <tr>
     <th>Lesson 14</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 15</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 16</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 17</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 18</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 19</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 20</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 21</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 22</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 23</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 24</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 25</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>

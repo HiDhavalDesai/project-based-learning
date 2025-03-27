@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buttons</title>
+</head>
+<body>
+
+    <!-- <a href="https://www.google.com/"><button style="font-size: 25px; background-color: grey; color: blue; border-radius: 25px; ">Click Me</button></a> -->
+    
+    <!-- Also, this is called inline css, it's better to use a stylesheet if you have this many attributes you want to change -->
+
+<!-- A little javascript button -->
+
+<button onclick="doSomething()" style="font-size: 25px; background-color: grey; color: blue; border-radius: 25px;">Click Me</button>
+
+<p id="greeting">Hello</p>
+
+<script>
+    function doSomething(){
+        document.getElementById("greeting").innerHTML = "Goodbye";
+    }
+</script>
+
+
+</body>
+</html>
