@@ -1,0 +1,24 @@
+body{
+    background-color: lightblue;
+}
+
+#p1{
+    color: red;
+}
+
+#p2{
+    color: RGB(252, 186, 3);
+}
+
+#p3{
+    color: rgba(245, 40, 145, 0.8);
+}
+#p4{
+    color: #00FF00;
+    background-color: #545454;
+}
+
+#p5{
+    color: #eb3f33
+}
+

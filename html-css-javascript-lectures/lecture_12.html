@@ -8,6 +8,67 @@
 <body>
 <h1>Forms</h1>
 
+<form action="lecture_12.html" method="POST" enctype="multipart/form-data">
+    <!-- GET OR POST METHOD; POST is used for username/password, get is used for insensitive data-->
+            <!-- enctype = encryption type and when we send large amounts of data, we can break it up into small parts-->
+
+    <label for="username">UserName:</label>
+    <input type="text" id="username" placeholder="Spongebob"><br><br>
+    <!-- The for attribute in label needs to be the same as the ID attribute in input -->
+
+    <label for="password">Password: </label>
+    <input type="password" id="password"><br><br>
+    <!-- attributes we can use required minlength="6" maxlength="15"; it was removed for more inputs -->
+
+    <label for="email">Email: </label>
+    <input type="email" id="email" placeholder="squarepants@gmail.com"><br><br>
+
+    <label for="phone">phone #:</label>
+    <input type="tel" id="phone" placeholder="159-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br><br>
+                        <!-- The pattern means that it can only be submitted in that pattern, this way we get the 3-3-4 format -->
+
+    <label for="birthdate">BirthDate:</label>
+    <input type="date" id="birthdate"><br><br>
+
+    <label for="quantity">Quantity:</label>
+    <input type="number" id="quantity" min="0" max="10" value="1"><br><br>
+    <!-- the min amount and the max amount, with a default value of 1 -->
+
+    <label for="title">title:</label>
+
+    <label for="mr.">Mr.</label>
+    <input type="radio" id="mr." value="Mr." name="title">
+    <label for="mrs.">Ms.</label>
+    <input type="radio" id="ms." value="Ms." name="title">
+    <label for="phd">PhD.</label>
+    <input type="radio" id="phD." value="phD." name="title">
+    <!-- Which ever radio buttons you want in the same group need to have the same name. -->
+
+
+    <label for="payment">payment:</label>
+    <select id="payment">
+        <option value="visa">Visa</option>
+        <option value="mastercard">Mastercard</option>
+        <option value="giftcard">GiftCard</option>
+    </select><br><br>
+
+    <label for="subscribe">Subscribe:</label>
+    <input type="checkbox" id="subscribe">
+    <br><br>
+
+    <label for="comment">comment</label>
+    <textarea id="comment" rows="3" cols="25"></textarea><br><br>
+
+    <label for="file">File</label>
+    <input type="file" id="file" accept="image/png, image/jpeg"><br><br>
+    <br><br>
+
+    <br>
+    <input type="submit"><br>
+    <input type="reset">
+
+</form>
+
 
     
 </body>

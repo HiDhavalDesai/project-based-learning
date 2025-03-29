@@ -1,0 +1,9 @@
+/* This is better because we can use it for multiple pages. */
+
+body{
+    background-color: black;
+}
+#p1{
+    color: red;
+    background-color: yellow;
+}

@@ -1,0 +1,36 @@
+/* If the fonts are locally hosted, then we need to import it */
+@font-face{
+    src: url(fonts/Bytesized-Regular.ttf);
+    font-family: "bytesized-regular";
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1{
+    font-family: Verdana, arial, Tahoma, sans-serif;
+}
+/* The reason to have multiple listed is so that you can have fall back fonts so the website can display font clearly, without any issues. */
+
+p{
+    font-family: "lucida console", "courier new";
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal;
+}
+/* Add quotes when the font family has more then 1 word. */
+
+/* 0.5em = 50% of the normal size */
+/* 1 em = 100% of the normal size */
+/* 1.5em = 150% of the normal size */
+
+h2{
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+}
+      
+h3{
+    font-family: "bytesized-regular" ;
+    font-weight: 400;
+    font-style: normal;
+}

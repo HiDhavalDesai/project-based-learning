@@ -4,7 +4,7 @@ Resources: <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Developers Network for CSS</a> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developers Network for Javascript</a>
 <br>
-
+<br>
 <table border="1">
     <tr>
         <th>Lesson</th>
@@ -73,27 +73,27 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 13</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_13.html">Header & Footer</a></th>
+    <th>Creating Header and Footer for web page</th>
     </tr>
     <tr>
     <th>Lesson 14</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_14.html">Introduction to CSS</a></th>
+    <th>This is an introduction on working with CSS.  <a href="lecture_14.html">HTML</a> & <a href="lecture_14.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 15</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_15.html">CSS Colors</a></th>
+    <th>Adding the different types of CSS Color, RBG, RGBA & Hexcolor. <a href="lecture_15.html">HTML</a> & <a href="lecture_15.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 16</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="">Fonts</a></th>
+    <th>Font Families, Styles and weights. Calling to Google API, or hosting on your own site. <a href="lecture_16.html">HTML</a> & <a href="lecture_16.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 17</th>
-    <th><a href=""></a></th>
+    <th><a href="">Borders</a></th>
     <th></th>
     </tr>
     <tr>
