@@ -88,32 +88,32 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 16</th>
-    <th><a href="">Fonts</a></th>
+    <th><a href="lecture_16.html">Fonts</a></th>
     <th>Font Families, Styles and weights. Calling to Google API, or hosting on your own site. <a href="lecture_16.html">HTML</a> & <a href="lecture_16.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 17</th>
-    <th><a href="">Borders</a></th>
-    <th></th>
+    <th><a href="lecture_17.html">Borders</a></th>
+    <th>Creating borders using CSS. <a href="lecture_17.html">HTML</a> & <a href="lecture_17.css">CSS</a></th>
     </tr>
     <tr>
-    <th>Lesson 18</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th>Lesson 18</th>  
+    <th><a href="lecture_18.html">CSS Shadows</a></th>
+    <th>Creating Shadows in text and box using CSS. <a href="lecture_18.html">HTML</a> & <a href="lecture_18.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 19</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_19.html">Margins</a></th>
+    <th>How margins work. <a href="lecture_19.html">HTML</a> & <a href="lecture_19.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 20</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_20.html">Float</a></th>
+    <th>How floating images and text together on a page<br> <a href="lecture_20.html">HTML</a> & <a href="lecture_20.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 21</th>
-    <th><a href=""></a></th>
+    <th><a href="">Overflow</a></th>
     <th></th>
     </tr>
     <tr>
@@ -133,6 +133,46 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 25</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 26</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 27</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 28</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 29</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 30</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 31</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 32</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 33</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>

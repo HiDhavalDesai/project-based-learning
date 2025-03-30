@@ -1,0 +1,18 @@
+body{
+    border: 2px solid black;
+    display: flow-root;
+}
+
+/* By adding display flow-root, it make everything inside the one border without it overflowing */
+
+#ship{
+    float:left;
+    margin: 0px;
+}
+
+/* Using float, allows for the block to be smaller and allows text to wrap around it. */
+
+#station{
+    float:right;
+
+}

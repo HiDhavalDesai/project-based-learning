@@ -1,0 +1,20 @@
+h1{
+    /* border-style: solid;
+    border-width: 5px;
+    border-color: rgb(64, 28, 224); */
+    /* There is a short hard for all three of these (see below) */
+    border: 5px solid rgb(97, 8, 199);
+    border-radius: 20px;
+}
+
+/* For border style we have solid, dotted, dashed, double, groove, ridge, inset, outset, none (if something has a border naturally) */
+
+p{
+    border-bottom: 2px solid green;
+    border-left: 3px dotted red;
+    border-top: 2px dotted blue;
+    border-right: 3px solid yellow;
+    border-radius: 10px;
+
+
+}

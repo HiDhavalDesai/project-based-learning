@@ -1,0 +1,13 @@
+h1{
+    text-shadow: 5px 1px 1px blue,-5px -1px 1px red ;
+    /* you need two numbers horizontal offset (move shadow right or left (negative =left) and a vertical offset(move shadow up or down (negative = up), you can add a third number for a blur effect, and then color, you can add another offset with a comma, and then repeat */
+}
+
+#box-1{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(53, 85, 53);
+    box-shadow: 5px 5px 2px green;
+}
+
+/* With the box-1 div tag you can really see the offset, there are two lays of green */
