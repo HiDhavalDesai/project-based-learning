@@ -1,0 +1,32 @@
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+span{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    visibility: hidden;
+}
+
+p{
+    background-color: green;
+    display: inline-block;
+}
+
+/* The width and height don't apply to the span tag */
+
+/* I changed div to inline, by default it is a block; and I changed the span tag to be a block, when it's default is inline */
+
+/* Inline-block has both properties.
+you can give it a width and height, and it will be inline.
+
+
+display none will remove the element from the page, and it will not take up any space.
+visibility hidden will remove the element from the page, but it will still take up space.
+
+*/

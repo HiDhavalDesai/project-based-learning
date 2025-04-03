@@ -1,0 +1,21 @@
+#one{
+    border: 2px solid;
+    height: 75px;
+    overflow: clip;
+    overflow-clip-margin: 2px;
+    /* allows you to see the amount after the box */
+}
+
+#two{
+    border: 2px solid;
+    height: 75px;
+    color: red;
+    overflow: auto;
+}
+/* overflow visible, will just make everything visible 
+overflow hidden, will cut off the text that is outside the div
+overflow clip, will cut off the text that is outside the box, but then we can use overflow-clip-margin and add px, so that it will only clip/cut x px outside of the box.
+scroll will allow you the create a scroll bar, so that you can see the text that is outside the box.
+auto will create a scroll bar if the text is outside the box, but if it is not, it will not create a scroll bar.
+
+*/

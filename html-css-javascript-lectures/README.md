@@ -113,17 +113,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 21</th>
-    <th><a href="">Overflow</a></th>
-    <th></th>
+    <th><a href="lecture_21.html">Overflow</a></th>
+    <th>Overflow property specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.<br><a href="lecture_21.html">HTML</a> & <a href="lecture_21.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 22</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_22.html">Display Properties</a></th>
+    <th>Display property specifies the display behavior (the type of rendering box) of an element. <a href="lecture_22.html">HTML</a> & <a href="lecture_22.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 23</th>
-    <th><a href=""></a></th>
+    <th><a href="">Height & Width</a></th>
     <th></th>
     </tr>
     <tr>
