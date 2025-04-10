@@ -1,0 +1,10 @@
+body{
+    background-image: url(imgs/Space-2.jpg);
+    color: red;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* If you use a large image it will stretch out completely, and repeat if it goes beyond the size of the image. And if it's a small image, it will just repeat, then you can add properties that can prevent the repeating; the attachment property, sets if the image scrolls with the rest of the page. You can also add the size, so that you can cover the page size and have it centered.   */

@@ -1,0 +1,48 @@
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    top: 100px;
+}
+
+#box2{
+    background-color: rgb(0, 255, 21);
+    height: 200px;
+    width: 200px;
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+}
+
+#box3{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
+
+/* relative to the top; so for example, from the top you are relative, so when you use top, you push the box down. The vice versa is true; so if we do relative and then down, we push the box up. Using left will move the box right, when using right, it pushes the box to the left.
+
+You can also use negative numbers, which can do the opposite, so top -100px would push the box up and not down.
+
+SOME LOGIC AND MATH -
+
+The height of box 1 is 200px, so to have a box below that we have to do 200 (height) + how far from top (100), so then we can start the next box at 300px 
+
+
+The fixed position, make it literally fixed in the viewport (screen), it's stuck there no matter what; it moves with you as you scroll.
+
+To move the fixed position, you can use left or right, and set it to 0, it's not opposite on for fixed; same thing for bottom and top properties. 
+
+
+Since box 3 is inside of box1, if anything is changed on box1, it will still carry that over to box3.
+
+Sticky property for position seems like it can be both relative and fixed. Like there is space left on the top, but then it moves with the scroll as well.
+
+For static, we just change the position to static and it will fall where ever it is in the web page.
+
+*/

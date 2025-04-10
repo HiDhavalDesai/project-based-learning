@@ -1,0 +1,36 @@
+#container{
+    border: 2px solid black;
+}
+
+#container p{
+    background-color: yellow;
+}
+
+#container > p{
+    background-color: blue;
+}
+
+#container ~ p{
+    background-color: red;
+}
+
+#container + p{
+    color: red;
+    background-color: green;
+}
+
+
+
+
+/* All background descendants of container with a paragraph, will have a background of yellow   
+    Then for children, we just remove the space and change it to >, and then only the first two paragraphs will be highlighted.
+
+    All children are descendants, but all descendants are children. 
+
+    The ~ selector is a sibling selector, and it will select all the paragraphs that are siblings of the container.
+    Paragraphs 4 & 5 are both siblings to the container.
+
+    + is a sibling selector, but it will only select the first sibling that comes after the container. So in this case it will only select paragraph 4.
+
+
+*/

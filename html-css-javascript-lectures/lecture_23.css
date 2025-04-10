@@ -1,0 +1,26 @@
+.box{
+    border: 2px solid black;
+    padding: 25px;
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    float: left;
+    text-align: center;
+    /* max-width: 75%; */
+    background-color: white;
+    min-height: 50%;
+}
+/* because div is a block level element, it means that no matter what it will take over the entire width of the page, unless specified. */
+
+/* we can add box-sizing: border-box and the width at 50% to create a left and right side */
+
+/* If we change float right; box 2 is on the left, box 1 is on the right  */
+
+/* But using max-width, we are saying that the maximum can only be that, but we are still setting width at 50%, which is then ignored. Then the vice versa can happen to min-width, where the minimum width must be met, and the width is still ignored. The same goes for max-height and min-height*/
+
+.container{
+    background-color: grey;
+    height: 100vh;
+}
+
+/* vh stands for view port height */

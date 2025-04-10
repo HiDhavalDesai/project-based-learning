@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="lecture_26.css">
+    <title>CSS Combinators</title>
+</head>
+<body>
+<!-- Combinators - explains the relationship between listed selectors
+                    [space] - descendants
+                    > - children
+                    ~ = general sibling 
+                    + = adjacent sibling 
+
+                    selector [combinator] selector
+                    div > p
+                        This means that we are applying css to any paragraph that is a child of a div element.
+
+-->
+
+<div id="container">
+    <p>This is number 1</p>
+    <p>This is number 2</p>
+
+    <div>
+        <p>This is number 3</p>
+    </div>
+</div>
+
+<p>This is number 4</p>
+<p>This is number 5</p>
+<!-- If 4 & 5 were wrapped in divs then they are no longer siblings, they would be children -->
+
+    
+</body>
+</html>

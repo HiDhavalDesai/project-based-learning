@@ -114,7 +114,7 @@ Resources: <br>
     <tr>
     <th>Lesson 21</th>
     <th><a href="lecture_21.html">Overflow</a></th>
-    <th>Overflow property specifies whether to clip the content or to add scrollbars when the content of an element is too big to fit in the specified area.<br><a href="lecture_21.html">HTML</a> & <a href="lecture_21.css">CSS</a> </th>
+    <th>Overflow property specifies whether to clip the content or to add scroll-bars when the content of an element is too big to fit in the specified area.<br><a href="lecture_21.html">HTML</a> & <a href="lecture_21.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 22</th>
@@ -123,33 +123,33 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 23</th>
-    <th><a href="">Height & Width</a></th>
-    <th></th>
+    <th><a href="lecture_23.html">Height & Width</a></th>
+    <th>How the height and width properties work in CSS. <a href="lecture_23.html">HTML</a> & <a href="lecture_23.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 24</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_24.html">Positions</a></th>
+    <th>How to position text/fields using absolute, fixed, static, and sticky properties. <a href="lecture_24.html">HTML</a> & <a href="lecture_24.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 25</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_25.html">Background Images</a></th>
+    <th>We learn to add a background image to our web page. <a href="lecture_25.html">HTML</a> & <a href="lecture_25.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 26</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_26.html">CSS Combinators</a></th>
+    <th>Combinators explain the relationship between two selectors. <a href="lecture_26.html">HTML</a> & <a href="lecture_26.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 27</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_27.html">Pseudo-Classes</a></th>
+    <th>seudo classes are key words added to a selector, they modify the behavior of an element when they are in a certain state. <a href="lecture_27.html">HTML</a> & <a href="lecture_27.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 28</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_28.html">Pseudo-Elements</a></th>
+    <th> <a href="lecture_28.html">HTML</a> & <a href="lecture_28.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 29</th>
@@ -176,7 +176,25 @@ Resources: <br>
     <th><a href=""></a></th>
     <th></th>
     </tr>
-    
-
+    <tr>
+    <th>Lesson 34</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 35</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 36</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 37</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
 
 </table>

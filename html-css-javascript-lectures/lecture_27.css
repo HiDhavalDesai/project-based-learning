@@ -1,0 +1,49 @@
+a:link{
+    color: #f70000;
+    font-size: 30px;
+}
+
+a:hover{
+    color: rgb(5, 5, 5);
+    font-size: 50px; 
+}
+
+a:active{
+    color: blue;
+    font-size: 100px;
+}
+
+a:visited{
+    color: rgb(0, 0, 0);
+}
+
+
+li:hover{
+    background-color: yellow; 
+}
+li:not(:hover){
+    background-color:grey; 
+}
+
+li:nth-child(3n){
+    background-color: red;
+}
+
+#greeting p {
+    background-color: blue;
+    padding: 10px;
+    display: none;
+
+}
+
+#greeting:hover p {
+    display:inline;
+} 
+/* display was changed from block */
+
+
+/* In the (), you have to add a number, and that one will be selected. 
+    for odd elements, you can enter odd, for even you can enter even; ever third element, we type 3n; with javascript, you can place a variable which can change.
+
+    The greeting div we have is good for dropdown menus 
+*/
