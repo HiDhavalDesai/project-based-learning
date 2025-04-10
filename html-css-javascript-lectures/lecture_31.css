@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: grey;
+    padding: 0px;
+    margin: 0px;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: blue;
+}
+
+/* All code will create a vertical navigation bar; all code below will change it to a horizontal navigation bar */
+
+.navbar li{
+    float: left;
+}
+
+.navbar ul{
+    overflow:hidden
+}
+
+body{
+    margin: 0px;
+}
+/* Adding the .navbar ul to the top would work too. */
+
+main{
+    margin:15px;
+}
+/* Main will indent all the content in the main element */

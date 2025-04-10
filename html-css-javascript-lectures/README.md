@@ -149,27 +149,27 @@ Resources: <br>
     <tr>
     <th>Lesson 28</th>
     <th><a href="lecture_28.html">Pseudo-Elements</a></th>
-    <th> <a href="lecture_28.html">HTML</a> & <a href="lecture_28.css">CSS</a></th>
+    <th>Pseduo-Elements are keywords that are added after a selector that's used to style a specific parts of an element <a href="lecture_28.html">HTML</a> & <a href="lecture_28.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 29</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_29.html">Pagination</a></th>
+    <th>A method by which a document is separated into pages, and numbers are given <a href="lecture_29.html">HTML</a> & <a href="lecture_29.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 30</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_30.html">Dropdown Menu</a></th>
+    <th>Creating a dropdown menu using HTML & CSS <a href="lecture_30.html">HTML</a> & <a href="lecture_30.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 31</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_31.html">Navigation Bar</a></th>
+    <th>Creating a navigation bar using HTML & CSS <a href="lecture_31.html">HTML</a> & <a href="lecture_31.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 32</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_32.html">Website Layout</a></th>
+    <th> <a href="lecture_32.html">HTML</a> & <a href="lecture_32.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 33</th>

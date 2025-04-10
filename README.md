@@ -11,12 +11,12 @@ These are all the projects I have created: <br>
     </tr>
         <tr>
         <td>Python</td>
-        <td><a href="/python-projects/madlibs-game.py">Madlibs</a></td>
+        <td><a href="./python-projects/madlibs-game.py">Madlibs</a></td>
         <td>You are asked multiple questions for inputs, which will then create a story.</td>
         </tr>
         <tr>
         <td>HTML</td>
-        <td><a href="/html-css-projects/lyrics.html">Lyrics</a></td>
+        <td><a href="./html-css-javascript-projects/lyrics.html">Lyrics</a></td>
         <td>Creating a page for music Lyrics</td>
         </tr>
         <tr>
