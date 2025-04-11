@@ -198,7 +198,6 @@ Resources: <br>
     </tr>
 </table>
 <br>
-<br>
 <h3>Javascript lectures</h3>
 <table border="1">
     <tr>
