@@ -1,0 +1,50 @@
+body{
+    margin: 0px;
+}
+
+.box{
+    width: 250px;
+    height: 250px;
+    border: 5px solid black;
+    font-size: 13em;
+    text-align: center;
+    transform: translatex(100px) rotateZ(45deg) scale(0.5);
+}
+
+#box1{
+    background-color: green;
+}
+
+#box2{
+    background-color: blue;
+}
+
+#box3{
+    background-color: red;
+}
+
+img{
+    transform: translateX(100%) rotateZ(180deg) scaleX(2) skewX(45deg);
+}
+
+/* transform - translateX moves the box x pixels right, negative numbers move the element to the left
+if we use percentages, then the element will move that percentage of its own width to the left or right.
+there is also translateY which moves the element up or down. 
+we can just use translate and then the x and y values in pixels or percentages.
+
+rotateX we use degrees, 90degree is 0 hidden, and 180degree is upside down.
+rotateY is the same but it rotates the element around the y axis.
+rotateZ is the same but it rotates the element around the z axis.
+
+scaleX and scaleY are used to stretch the element in the x or y direction.
+    1 = 100% of the original size, 0.5 = 50% of the original size, 2 = 200% of the original size.
+
+
+skewX and skewY are used to skew the element in the x or y direction.
+    0 = 0 degrees, 1 = 1 degree, 2 = 2 degrees, etc.
+    90 = 90 degrees, 180 = 180 degrees, etc.
+
+    you can apply multiple transforms to the same element, but they will be applied in the order they are written.
+    transform: translateX(100%) rotatez(90deg) scale(.5); 
+
+*/

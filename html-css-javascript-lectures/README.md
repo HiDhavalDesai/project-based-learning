@@ -1,4 +1,4 @@
-I was able to learn HTML & CSS by watching youtube videos and creating projects.<br><br>
+I was able to learn HTML, CSS and Javascript by watching youtube videos and creating projects.<br><br>
 Resources: <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">Mozilla Developers Network for HTML</a> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">Mozilla Developers Network for CSS</a> <br>
@@ -79,120 +79,190 @@ Resources: <br>
     <tr>
     <th>Lesson 14</th>
     <th><a href="lecture_14.html">Introduction to CSS</a></th>
-    <th>This is an introduction on working with CSS.  <a href="lecture_14.html">HTML</a> & <a href="lecture_14.css">CSS</a></th>
+    <th>This is an introduction on working with CSS.<br> Files: <a href="lecture_14.html">HTML</a> & <a href="lecture_14.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 15</th>
     <th><a href="lecture_15.html">CSS Colors</a></th>
-    <th>Adding the different types of CSS Color, RBG, RGBA & Hexcolor. <a href="lecture_15.html">HTML</a> & <a href="lecture_15.css">CSS</a></th>
+    <th>Adding the different types of CSS Color, RBG, RGBA & Hexcolor.<br> Files:  <a href="lecture_15.html">HTML</a> & <a href="lecture_15.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 16</th>
     <th><a href="lecture_16.html">Fonts</a></th>
-    <th>Font Families, Styles and weights. Calling to Google API, or hosting on your own site. <a href="lecture_16.html">HTML</a> & <a href="lecture_16.css">CSS</a> </th>
+    <th>Font Families, Styles and weights. Calling to Google API, or hosting on your own site.<br>Files:  <a href="lecture_16.html">HTML</a> & <a href="lecture_16.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 17</th>
     <th><a href="lecture_17.html">Borders</a></th>
-    <th>Creating borders using CSS. <a href="lecture_17.html">HTML</a> & <a href="lecture_17.css">CSS</a></th>
+    <th>Creating borders using CSS.<br> Files:  <a href="lecture_17.html">HTML</a> & <a href="lecture_17.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 18</th>  
     <th><a href="lecture_18.html">CSS Shadows</a></th>
-    <th>Creating Shadows in text and box using CSS. <a href="lecture_18.html">HTML</a> & <a href="lecture_18.css">CSS</a></th>
+    <th>Creating Shadows in text and box using CSS.<br> Files:  <a href="lecture_18.html">HTML</a> & <a href="lecture_18.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 19</th>
     <th><a href="lecture_19.html">Margins</a></th>
-    <th>How margins work. <a href="lecture_19.html">HTML</a> & <a href="lecture_19.css">CSS</a></th>
+    <th>How margins work.<br> Files: <a href="lecture_19.html">HTML</a> & <a href="lecture_19.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 20</th>
     <th><a href="lecture_20.html">Float</a></th>
-    <th>How floating images and text together on a page<br> <a href="lecture_20.html">HTML</a> & <a href="lecture_20.css">CSS</a></th>
+    <th>How floating images and text together on a page.<br> Files:  <a href="lecture_20.html">HTML</a> & <a href="lecture_20.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 21</th>
     <th><a href="lecture_21.html">Overflow</a></th>
-    <th>Overflow property specifies whether to clip the content or to add scroll-bars when the content of an element is too big to fit in the specified area.<br><a href="lecture_21.html">HTML</a> & <a href="lecture_21.css">CSS</a> </th>
+    <th>Overflow property specifies whether to clip the content or to add scroll-bars when the content of an element is too big to fit in the specified area.<br> Files: <a href="lecture_21.html">HTML</a> & <a href="lecture_21.css">CSS</a> </th>
     </tr>
     <tr>
     <th>Lesson 22</th>
     <th><a href="lecture_22.html">Display Properties</a></th>
-    <th>Display property specifies the display behavior (the type of rendering box) of an element. <a href="lecture_22.html">HTML</a> & <a href="lecture_22.css">CSS</a></th>
+    <th>Display property specifies the display behavior (the type of rendering box) of an element.<br> Files:  <a href="lecture_22.html">HTML</a> & <a href="lecture_22.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 23</th>
     <th><a href="lecture_23.html">Height & Width</a></th>
-    <th>How the height and width properties work in CSS. <a href="lecture_23.html">HTML</a> & <a href="lecture_23.css">CSS</a></th>
+    <th>How the height and width properties work in CSS.<br> Files:  <a href="lecture_23.html">HTML</a> & <a href="lecture_23.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 24</th>
     <th><a href="lecture_24.html">Positions</a></th>
-    <th>How to position text/fields using absolute, fixed, static, and sticky properties. <a href="lecture_24.html">HTML</a> & <a href="lecture_24.css">CSS</a></th>
+    <th>How to position text/fields using absolute, fixed, static, and sticky properties.<br> Files:  <a href="lecture_24.html">HTML</a> & <a href="lecture_24.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 25</th>
     <th><a href="lecture_25.html">Background Images</a></th>
-    <th>We learn to add a background image to our web page. <a href="lecture_25.html">HTML</a> & <a href="lecture_25.css">CSS</a></th>
+    <th>We learn to add a background image to our web page.<br> Files:  <a href="lecture_25.html">HTML</a> & <a href="lecture_25.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 26</th>
     <th><a href="lecture_26.html">CSS Combinators</a></th>
-    <th>Combinators explain the relationship between two selectors. <a href="lecture_26.html">HTML</a> & <a href="lecture_26.css">CSS</a></th>
+    <th>Combinators explain the relationship between two selectors.<br> Files:  <a href="lecture_26.html">HTML</a> & <a href="lecture_26.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 27</th>
     <th><a href="lecture_27.html">Pseudo-Classes</a></th>
-    <th>seudo classes are key words added to a selector, they modify the behavior of an element when they are in a certain state. <a href="lecture_27.html">HTML</a> & <a href="lecture_27.css">CSS</a></th>
+    <th>Pseudo classes are key words added to a selector, they modify the behavior of an element when they are in a certain state.<br> Files:  <a href="lecture_27.html">HTML</a> & <a href="lecture_27.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 28</th>
     <th><a href="lecture_28.html">Pseudo-Elements</a></th>
-    <th>Pseduo-Elements are keywords that are added after a selector that's used to style a specific parts of an element <a href="lecture_28.html">HTML</a> & <a href="lecture_28.css">CSS</a></th>
+    <th>Pseduo-Elements are keywords that are added after a selector that's used to style a specific parts of an element.<br> Files:  <a href="lecture_28.html">HTML</a> & <a href="lecture_28.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 29</th>
     <th><a href="lecture_29.html">Pagination</a></th>
-    <th>A method by which a document is separated into pages, and numbers are given <a href="lecture_29.html">HTML</a> & <a href="lecture_29.css">CSS</a></th>
+    <th>A method by which a document is separated into pages, and numbers are given.<br> Files: <a href="lecture_29.html">HTML</a> & <a href="lecture_29.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 30</th>
     <th><a href="lecture_30.html">Dropdown Menu</a></th>
-    <th>Creating a dropdown menu using HTML & CSS <a href="lecture_30.html">HTML</a> & <a href="lecture_30.css">CSS</a></th>
+    <th>Creating a dropdown menu using HTML & CSS.<br> Files:  <a href="lecture_30.html">HTML</a> & <a href="lecture_30.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 31</th>
     <th><a href="lecture_31.html">Navigation Bar</a></th>
-    <th>Creating a navigation bar using HTML & CSS <a href="lecture_31.html">HTML</a> & <a href="lecture_31.css">CSS</a></th>
+    <th>Creating a navigation bar using HTML & CSS.<br> Files:  <a href="lecture_31.html">HTML</a> & <a href="lecture_31.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 32</th>
     <th><a href="lecture_32.html">Website Layout</a></th>
-    <th> <a href="lecture_32.html">HTML</a> & <a href="lecture_32.css">CSS</a></th>
+    <th>Creating a basic website layout.<br> Files: <a href="lecture_32.html">HTML</a> & <a href="lecture_32.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 33</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_33.html">Image Gallery</a></th>
+    <th>Creating a food image gallery.<br> Files: <a href="lecture_33.html">HTML</a> & <a href="lecture_33.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 34</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_34.html">Icons</a></th>
+    <th>Adding icons to a webpage. <br> Files: <a href="lecture_34.html">HTML</a> & <a href="lecture_34.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 35</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="lecture_35.html">Flexbox</a></th>
+    <th>An introduction to flex box. <br> Files: <a href="lecture_35.html">HTML</a> & <a href="lecture_35.css">CSS</a></th>
     </tr>
     <tr>
     <th>Lesson 36</th>
+    <th><a href="lecture_36.html">Transformations</a></th>
+    <th>Transform is a CSS property that lets you rotate, scale, skew, or translate an element.<br> Files: <a href="lecture_36.html">HTML</a> & <a href="lecture_36.css">CSS</a></th>
+    </tr>
+    <tr>
+    <th>Lesson 37</th>
+    <th><a href="lecture_37.html">Animations</a></th>
+    <th>How to animate images and text.<br> Files: <a href="lecture_37.html">HTML</a> & <a href="lecture_37.css">CSS</a></th>
+    </tr>
+</table>
+<br>
+<br>
+<h3>Javascript lectures</h3>
+<table border="1">
+    <tr>
+        <th>Lesson</th>
+        <th>Title</th>  
+        <th>Lecture Description</th>
+    </tr>
+    <tr>
+    <th>Lesson 1</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>
     <tr>
-    <th>Lesson 37</th>
+    <th>Lesson 2</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 3</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 4</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 5</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 6</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 7</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 8</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 9</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 10</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 11</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 12</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>

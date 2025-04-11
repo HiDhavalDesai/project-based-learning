@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+}
+
+#box{
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    font-size: 13em;
+    text-align: center;
+    animation-name: slideleft;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* to make the animation infinite, you need to make the iteration count infinite and then have the animation direction alternate
+
+animation-play-state: paused, will pause the animation, and then when you click it, it will play the animation. this is useful when you want to pause the animation and then play it when you click it.
+
+animation-timing-function: ease-in-out, will make the animation smooth and not abrupt. it will start slow, then fast, and then slow again. this is useful when you want to make the animation smooth and not abrupt.
+
+linear will make it a constant speed.
+
+steps(5) has a stop motion like effect. the 5 is the number of steps
+
+If you want custom speed, you need to inspect the element and mess with the cubic bezier curve. which will give you 4 values. the first two are the x and y values of the first point, and the last two are the x and y values of the second point. this will make the animation smooth and not abrupt.
+
+
+*/
+
+/* #box:hover{
+    animation-name: glow;
+    animation-duration: 2s;
+} */
+/* changing it to active will make it so when i click and hold, only then will the glow effect work */
+
+@keyframes slideleft{
+    from{
+        transform: translateX(100%)}
+}
+
+@keyframes slideRight{
+    to{
+        transform: translateX(100%)}
+}
+
+@keyframes slideUp{
+    from{
+        transform: translateY(100%)}
+}
+
+@keyframes slideDown{
+    to{
+        transform: translateY(100%)}
+}
+
+
+@keyframes rotate{
+    50%{transform: rotateZ(360deg)}
+}
+
+@keyframes grow{
+    50%{transform: scale(2,2)}
+}
+
+@keyframes shrink{
+    50%{transform: scale(0.5,0.5)}
+}
+
+@keyframes fade{
+    50%{opacity: 0}
+}
+
+@keyframes colorChange{
+    0%{background-color: red}
+    25%{background-color: blue}
+    50%{background-color: green}
+    75%{background-color: yellow}
+    100%{background-color: purple}
+}
+
+@keyframes glow{
+    50%{box-shadow: 0px 0px 50px yellow}
+}
+
+img{
+    animation-name: slideleft;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* To from and percent values are needed to animate an element 
+if we do 50% it will be 50% of the animation duration, and then go back to the original state.
+
+When doing transform scale, we can do 50%, which will make the element grow and then shrink in a smooth motion.
+
+to fade in the element, we change the opacity to 1 and the original would opacity would be 0
+
+*/

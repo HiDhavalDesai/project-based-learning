@@ -1,0 +1,64 @@
+.container{
+    display: flex;
+    border: 10px solid black;
+    height: 90vh;
+}
+.box{
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    font-size: 5em;
+    border-radius: 25%;
+}
+
+#box1{
+    background-color: red;
+}
+
+#box2{
+    background-color: rgb(0, 47, 255);
+}
+
+#box3{
+    background-color: rgb(81, 255, 0);
+}
+
+#box4{
+    background-color: rgb(255, 145, 0);
+}
+
+/* in the container, you can use flex-direction: row-reverse to display the boxes in reverse order, column to display it all in one column, and column-reverse for it to be reversed. 
+
+
+justify-content is used to align the boxes in the container. You can use space-between to add space between the boxes, space-around to add space around the boxes, and center to center the boxes in the container.
+
+justify-content: flex-start is the default value, then there is flex-end, which moves the boxes to the end of the container, there is center, there is space-between for even spacing; there is also space around, for the space around the boxes being even. Then there is space-evenly, which is the same as space-around, but the space between the boxes is even.
+
+
+The cross axis is the Y-axis
+align-items: flex-start is the default. 
+            flex-end moves the boxes to the end of the container (bottom)
+            center moves the boxes to the center of the container (middle)
+            baseline moves the boxes to the baseline of the container (top); the font is aligned.
+            if the font size is changed for any of the boxes, the baseline will still align the text to the baseline of the container.
+
+
+if you have too many boxes, and need them to wrap, you can use flex-wrap: wrap; the default is flex-wrap: nowrap. wrap-reverse will reverse the order of the boxes in the container.
+
+
+if you use flex wrap, wrap and align-content: flex-start, you remove the spaces in between rows. 
+
+space-evenly, space-between, center
+
+you can also set a column-gap, which will add a gap between the columns.
+
+you can use align-self, to move each individual box to a different position in the container.
+align-self: flex-start is the default. 
+            flex-end moves the box to the end of the container (bottom)
+            center moves the box to the center of the container (middle)
+            baseline moves the box to the baseline of the container (top); the font is aligned.
+            if the font size is changed for any of the boxes, the baseline will still align the text to the baseline of the container.
+
+
+            you can also use order: 1, -1, 1 means to the right, -1 means to the left, 0 means to the center.
+*/
