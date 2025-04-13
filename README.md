@@ -20,9 +20,9 @@ These are all the projects I have created: <br>
         <td>Creating a page for music Lyrics</td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML & CSS</td>
+        <td><a href="./html-css-javascript-projects/personal_profile.html">Personal Profile</a></td>
+        <td>Creating a personal profile page for anyone to use.<br> Files: <a href="./html-css-javascript-projects/personal_profile.html">HTML</a> & <a href="./html-css-javascript-projects/personal_profile.css">CSS</td>
         </tr>
         <tr>
         <td></td>

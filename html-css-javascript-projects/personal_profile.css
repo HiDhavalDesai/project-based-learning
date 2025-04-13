@@ -1,0 +1,37 @@
+*{
+    text-align: center;
+    margin: 0px;
+}
+
+#profile{
+    border-radius: 100px;
+    width: 115px;
+}
+
+header{
+    background-color: rgb(211, 208, 208);
+}
+
+main{
+    background-color: rgb(179, 177, 177);
+}
+
+.fa-brands.fa-twitter{
+    color: blue;
+}
+.fa-brands.fa-github{
+    color: black;
+}
+.fa-brands.fa-linkedin-in{
+    color: white;
+}
+
+#project{
+    border: 1px solid black;
+
+}
+
+
+footer{
+    background-color: grey;
+}
