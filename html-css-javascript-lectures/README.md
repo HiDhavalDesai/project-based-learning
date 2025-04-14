@@ -223,12 +223,12 @@ Resources: <br>
     <tr>
     <th>Lesson 4</th>
     <th><a href="js_lecture_4.html">Accept user Input</a></th>
-    <th>Accepting user input via a alertbox or an html input tag. <br> Files: <a href="js_lecture_4.html">HTML</a> & <a href="js_lecture_4.css">CSS</a> & <a href="js_lecture_4.js">Javascript</th>
+    <th>Accepting user input via a alert box or an html input tag. <br> Files: <a href="js_lecture_4.html">HTML</a> & <a href="js_lecture_4.css">CSS</a> & <a href="js_lecture_4.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 5</th>
-    <th><a href="">Type Conversion</a></th>
-    <th></th>
+    <th><a href="js_lecture_5.html">Type Conversion</a></th>
+    <th>Converting user inputs to the proper data type is important to very that data is entered, but to also do arithmetic with it. <br> Files: <a href="js_lecture_5.html">HTML</a> & <a href="js_lecture_5.css">CSS</a> & <a href="js_lecture_5.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 6</th>
