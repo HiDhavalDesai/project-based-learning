@@ -207,17 +207,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 1</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_1.html">Javascript Basics</a></th>
+    <th>Learning the Basics of Javascript, like Alerts, Console Logs and writing text from the element ID. <br> Files: <a href="js_lecture_1.html">HTML</a> & <a href="js_lecture_1.css">CSS</a> & <a href="js_lecture_1.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 2</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_2.html">Variables</a></th>
+    <th>Going over Basic Varibales and a few data types, like strings, numbers and booleans.<br> Files: <a href="js_lecture_2.html">HTML</a> & <a href="js_lecture_2.css">CSS</a> & <a href="js_lecture_2.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 3</th>
-    <th><a href=""></a></th>
+    <th><a href="">Arithmetic Operators</a></th>
     <th></th>
     </tr>
     <tr>
