@@ -217,17 +217,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 3</th>
-    <th><a href="">Arithmetic Operators</a></th>
-    <th></th>
+    <th><a href="js_lecture_3.html">Arithmetic Operators</a></th>
+    <th>Learning the basics of operators & operator precedence. <br> Files: <a href="js_lecture_3.html">HTML</a> & <a href="js_lecture_3.css">CSS</a> & <a href="js_lecture_3.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 4</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_4.html">Accept user Input</a></th>
+    <th>Accepting user input via a alertbox or an html input tag. <br> Files: <a href="js_lecture_4.html">HTML</a> & <a href="js_lecture_4.css">CSS</a> & <a href="js_lecture_4.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 5</th>
-    <th><a href=""></a></th>
+    <th><a href="">Type Conversion</a></th>
     <th></th>
     </tr>
     <tr>
@@ -262,6 +262,46 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 12</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 13</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 14</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 15</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 16</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 17</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 18</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 19</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 20</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>
