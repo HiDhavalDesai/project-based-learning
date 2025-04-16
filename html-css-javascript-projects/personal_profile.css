@@ -1,19 +1,16 @@
-*{
-    text-align: center;
+body{
     margin: 0px;
-}
-
-#profile{
-    border-radius: 100px;
-    width: 115px;
-}
-
-header{
+    border-left: 400px solid white;
+    border-right: 400px solid white;
+    border-bottom: 1px solid white;
+    text-align: center;
+    padding: 0px;
     background-color: rgb(211, 208, 208);
 }
 
-main{
-    background-color: rgb(179, 177, 177);
+#profile{
+    border-radius: 50px;
+    width: 100px;
 }
 
 .fa-brands.fa-twitter{
@@ -26,14 +23,22 @@ main{
     color: white;
 }
 
-#project{
-    border: 1px solid black;
-
+.boxes{
+    display: inline-block;
+    border: 2px solid black;
+    margin: 5px;
 }
 
-
-footer{
-    background-color: grey;
+.boxes .des{
+    padding: 5px;
+    text-align: center;
 }
 
-@media screen
+.boxes:hover{
+    border: 2px solid #33bbee;
+}
+
+.boxes img{
+    width: 100%;
+    height: auto;
+}   

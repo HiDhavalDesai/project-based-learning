@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+}
+
+div{
+  background-color: #33bbee;
+  display: inline-block;
+  border: 3px solid black;
+  align-items: center;
+}
+
+div p{
+  font-size: 3em;
+  padding: 10px;
+  margin: 0px;
+}
+
+#inc{
+  background-color: green;
+  padding: 5px;
+  margin: 5px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  font-weight: bold;
+}
+#inc:hover{
+  background-color: rgb(111, 212, 111);
+}
+
+#dec{
+  background-color: red;
+  padding: 5px;
+  margin: 5px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#dec:hover{
+  background-color: rgb(211, 116, 116);
+}
+
+#clear{
+  padding: 5px;
+  margin: 5px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+#clear:hover{
+  background-color: rgb(168, 168, 168);
+}
