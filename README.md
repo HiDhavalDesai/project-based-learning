@@ -1,4 +1,4 @@
-## Welcome to my Project Based Learning Repo.
+## Welcome to my Project Based Learning Repository.
 I am a self-taught Engineer.<br>
 Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn</a> |
 <br><br>
@@ -25,9 +25,9 @@ These are all the projects I have created: <br>
         <td>Creating a personal profile page for anyone to use.<br> Files: <a href="./html-css-javascript-projects/personal_profile.html">HTML</a> & <a href="./html-css-javascript-projects/personal_profile.css">CSS</td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML & CSS & JavaScript</td>
+        <td><a href="./html-css-javascript-projects/counter.html">Counter</a></td>
+        <td>A counter, that can increase/decrease and reset.<br> Files: <a href="./html-css-javascript-projects/counter.html">HTML</a> & <a href="./html-css-javascript-projects/counter.css">CSS</a> & <a href="/html-css-javascript-projects/counter.js">Javascript</a></td>
         </tr>
         <tr>
         <td></td>

@@ -232,8 +232,8 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 6</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_6.html">Const</a></th>
+    <th>A constant is an unchangeable variable<br> Files: <a href="js_lecture_6.html">HTML</a> & <a href="js_lecture_6.css">CSS</a> & <a href="js_lecture_6.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 7</th>
