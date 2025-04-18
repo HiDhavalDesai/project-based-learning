@@ -237,17 +237,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 7</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="./js_lecture_7.html">Counter Program</a></th>
+    <th>Creating a counter Program using Javascript. <br>Files: <a href="js_lecture_7.html">HTML</a> & <a href="js_lecture_7.css">CSS</a> & <a href="js_lecture_7.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 8</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="./js_lecture_8.html">Math</a></th>
+    <th>Using built-in methods with Math.<br>Files: <a href="js_lecture_8.html">HTML</a> & <a href="js_lecture_8.css">CSS</a> & <a href="js_lecture_8.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 9</th>
-    <th><a href=""></a></th>
+    <th><a href="">Random Number Generator</a></th>
     <th></th>
     </tr>
     <tr>
