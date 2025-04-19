@@ -30,9 +30,9 @@ These are all the projects I have created: <br>
         <td>A counter, that can increase/decrease and reset.<br> Files: <a href="./html-css-javascript-projects/counter.html">HTML</a> & <a href="./html-css-javascript-projects/counter.css">CSS</a> & <a href="/html-css-javascript-projects/counter.js">Javascript</a></td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML</td>
+        <td><a href="./html-css-javascript-projects/freecodecamp_cat_photo_app.html">CatPhoto App - Freecodecamp</a></td>
+        <td>A basic html website to code from FreeCodeCamp.org.<br> Files <a href="./html-css-javascript-projects/freecodecamp_cat_photo_app.html">HTML</a></td>
         </tr>
         <tr>
         <td></td>

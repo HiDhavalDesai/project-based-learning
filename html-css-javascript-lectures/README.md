@@ -247,12 +247,12 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 9</th>
-    <th><a href="">Random Number Generator</a></th>
-    <th></th>
+    <th><a href="./js_lecture_9.html">Random Number Generator</a></th>
+    <th>Using the math.random, and max and min, we are able to generate random numbers <br>Files: <a href="js_lecture_9.html">HTML</a> & <a href="js_lecture_9.css">CSS</a> & <a href="js_lecture_9.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 10</th>
-    <th><a href=""></a></th>
+    <th><a href="">If-Statement</a></th>
     <th></th>
     </tr>
     <tr>
