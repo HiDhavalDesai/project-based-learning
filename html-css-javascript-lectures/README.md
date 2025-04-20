@@ -252,12 +252,12 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 10</th>
-    <th><a href="">If-Statement</a></th>
-    <th></th>
+    <th><a href="js_lecture_10.js">If-Statement</a></th>
+    <th>Working with If-Statements, Else statements and Else-if Statements.<br>Files: <a href="js_lecture_10.html">HTML</a> & <a href="js_lecture_10.css">CSS</a> & <a href="js_lecture_10.js">Javascript </th>
     </tr>
     <tr>
     <th>Lesson 11</th>
-    <th><a href=""></a></th>
+    <th><a href="">Checked Property</a></th>
     <th></th>
     </tr>
     <tr>
