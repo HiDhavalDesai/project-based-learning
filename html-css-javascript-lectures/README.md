@@ -253,17 +253,17 @@ Resources: <br>
     <tr>
     <th>Lesson 10</th>
     <th><a href="js_lecture_10.js">If-Statement</a></th>
-    <th>Working with If-Statements, Else statements and Else-if Statements.<br>Files: <a href="js_lecture_10.html">HTML</a> & <a href="js_lecture_10.css">CSS</a> & <a href="js_lecture_10.js">Javascript </th>
+    <th>Working with If-Statements, Else statements and Else-if Statements.<br>Files: <a href="js_lecture_10.html">HTML</a> & <a href="js_lecture_10.css">CSS</a> & <a href="js_lecture_10.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 11</th>
-    <th><a href="">Checked Property</a></th>
-    <th></th>
+    <th><a href="js_lecture_11.html">Checked Property</a></th>
+    <th>Check to see if the option is selected and then create an if-condition.<br>Files: <a href="js_lecture_11.html">HTML</a> & <a href="js_lecture_11.css">CSS</a> & <a href="js_lecture_11.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 12</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_12.html">Ternary Operator</a></th>
+    <th> This is a shortcut to if else statements. <br>Files: <a href="js_lecture_12.html">HTML</a> & <a href="js_lecture_12.css">CSS</a> & <a href="js_lecture_12.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 13</th>
