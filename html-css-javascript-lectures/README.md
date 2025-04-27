@@ -267,17 +267,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 13</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_13.html">Switches</a></th>
+    <th>Instead of using multiple else-if statements, you can use a switch and define each case. <br>Files: <a href="js_lecture_13.html">HTML</a> & <a href="js_lecture_13.css">CSS</a> & <a href="js_lecture_13.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 14</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_14.html">String Method</a></th>
+    <th>This method allows you the manipulate strings. <br>Files: <a href="js_lecture_14.html">HTML</a> & <a href="js_lecture_14.css">CSS</a> & <a href="js_lecture_14.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 15</th>
-    <th><a href=""></a></th>
+    <th><a href="">String Slicing</a></th>
     <th></th>
     </tr>
     <tr>
