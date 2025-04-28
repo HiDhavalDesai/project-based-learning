@@ -277,8 +277,8 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 15</th>
-    <th><a href="">String Slicing</a></th>
-    <th></th>
+    <th><a href="./js_lecture_15.html">String Slicing</a></th>
+    <th>Learning to slice strings in different ways. <br>Files: <a href="js_lecture_15.html">HTML</a> & <a href="js_lecture_15.css">CSS</a> & <a href="js_lecture_15.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 16</th>
