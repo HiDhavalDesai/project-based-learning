@@ -282,17 +282,17 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 16</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="">Method Chaining</a></th>
+    <th>Being able to call one method after another in one line of code. <br>Files: <a href="js_lecture_16.html">HTML</a> & <a href="js_lecture_16.css">CSS</a> & <a href="js_lecture_16.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 17</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_17.html">Logical Operators</a></th>
+    <th>Used to combine or manipulate boolean values (true or false)<br>Files: <a href="js_lecture_17.html">HTML</a> & <a href="js_lecture_17.css">CSS</a> & <a href="js_lecture_17.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 18</th>
-    <th><a href=""></a></th>
+    <th><a href="">Strict Equality</a></th>
     <th></th>
     </tr>
     <tr>
@@ -302,6 +302,66 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 20</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 21</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 22</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 23</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 24</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 25</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 26</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 27</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 28</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 29</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 30</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 31</th>
+    <th><a href=""></a></th>
+    <th></th>
+    </tr>
+    <tr>
+    <th>Lesson 32</th>
     <th><a href=""></a></th>
     <th></th>
     </tr>
