@@ -7,7 +7,22 @@
     <title>Number Guessing Game</title>
 </head>
 <body>
+    <h1>Welcome to the Number Guessing Game.</h1>
+    <h4><strong>Instructions: </strong>The computer will randomly generate a number between 1 & 100.<br> You will enter a number in the text box provided, if you match the number you win, if you don't you will be provided instructions on whether you above or below the number.<br> Then you can guess again.<br> You will keep guessing until you win or you decide that have given up. There are two ways to give up, one is by pressing give up, the second way is by looking at the console, we will provide you with the number there. </h4>
+
+    <div id="guessing-box">
+        <div id="guess-box">
+        <label for="number">Guess the Number:</label><br>
+        <input type="number" name="number" id="number">
+        <br>
+        <button type="submit" id="guess">Guess</button>
+        <button type="reset" id="reset">Try again</button>
+                 <h6 id="quote"></h6>
+        </div>
+    </div>
     
+
+
     <script src="number-guessing-game.js"></script>
 </body>
 </html>
