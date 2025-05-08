@@ -292,22 +292,22 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 18</th>
-    <th><a href="">Strict Equality</a></th>
-    <th></th>
+    <th><a href="js_lecture_18.html">Strict Equality</a></th>
+    <th>There are five different types of operators, =,==,===,!=,!==. <br>Files: <a href="js_lecture_18.html">HTML</a> & <a href="js_lecture_18.css">CSS</a> & <a href="js_lecture_18.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 19</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_19.html">While Loops</a></th>
+    <th>Understanding While-loops as well as do-while loops. <br>Files: <a href="js_lecture_19.html">HTML</a> & <a href="js_lecture_19.css">CSS</a> & <a href="js_lecture_19.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 20</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_20.html">For Loops</a></th>
+    <th>Repeating code a limited number of times. <br>Files: <a href="js_lecture_20.html">HTML</a> & <a href="js_lecture_20.css">CSS</a> & <a href="js_lecture_20.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 21</th>
-    <th><a href=""></a></th>
+    <th><a href="">Guessing Game</a></th>
     <th></th>
     </tr>
     <tr>
