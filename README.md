@@ -35,9 +35,9 @@ These are all the projects I have created: <br>
         <td>A basic html website to code from FreeCodeCamp.org.<br> Files <a href="./html-css-javascript-projects/freecodecamp_cat_photo_app.html">HTML</a></td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML & CSS & JavaScript</td>
+        <td><a href="./html-css-javascript-projects/number-guessing-game.html">Number Guessing Game</a></td>
+        <td>The computer will pick a number randomly, and then you have to guess it. <br> Files: <a href="./html-css-javascript-projects/number-guessing-game.html">HTML</a> & <a href="./html-css-javascript-projects/number-guessing-game.css">CSS</a> & <a href="./html-css-javascript-projects/number-guessing-game.js">Javascript</a></td>
         </tr>
         <tr>
         <td></td>
