@@ -9,5 +9,6 @@ const reset = document.getElementById("reset");
 const quote = document.getElementById("quote");
 
 
+
 let randomNumber = Math.floor(Math.random() * (maxNumber - minNumber)) + minNumber;
 console.log(randomNumber);
