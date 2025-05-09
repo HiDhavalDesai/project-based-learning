@@ -57,7 +57,12 @@ h4{
     background-color: rgb(240, 102, 102);
 }
 
+#attempt_made{
+    font-size: .3em;
+    display:inline; 
+}
+
 #quote{
     font-size: .4em;
-    display:block;
+    display:inline;
 }
