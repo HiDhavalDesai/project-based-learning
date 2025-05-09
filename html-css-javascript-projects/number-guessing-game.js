@@ -41,10 +41,10 @@ let attempt = 3;   // attempts allowed
                              }
                             else{
                             if(Number(number.value) > randomNumber){
-                                quote.textContent = `${number.value} is not correct. ${number.value}  too high. Please Try again.`;
+                                quote.textContent = `${number.value} is not correct. ${number.value} is too high. Please Try again.`;
                             }
                             else if(Number(number.value) < randomNumber){
-                                quote.textContent = `${number.value} is not correct. ${number.value}  too low. Please Try again.`;
+                                quote.textContent = `${number.value} is not correct. ${number.value} is too low. Please Try again.`;
                             }
                             }
                 }
