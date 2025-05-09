@@ -40,7 +40,12 @@ let attempt = 3;   // attempts allowed
                             quote.textContent = `The correct number is ${randomNumber}. Please reset to try again.`;
                              }
                             else{
-                            quote.textContent = `${number.value} is not correct. Please Try again.`;
+                            if(Number(number.value) > randomNumber){
+                                quote.textContent = `${number.value} is not correct. ${number.value}  too high. Please Try again.`;
+                            }
+                            else if(Number(number.value) < randomNumber){
+                                quote.textContent = `${number.value} is not correct. ${number.value}  too low. Please Try again.`;
+                            }
                             }
                 }
                 

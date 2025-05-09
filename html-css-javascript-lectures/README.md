@@ -307,17 +307,18 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 21</th>
-    <th><a href="">Guessing Game</a></th>
-    <th></th>
+    <th><a href="js_lecture_21.html">Guessing Game</a></th>
+    <th>This is a window prompt guessing game. See how many takes it takes you to guess the number.<br>Files: <a href="js_lecture_21.html">HTML</a> & <a href="js_lecture_21.css">CSS</a> & <a href="js_lecture_21.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 22</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_22.html">Functions</a></th>
+    <th>A section of reusable code; declare code once, use it whenever you want.   Call the function to execute that code.<br>Files: <a href="js_lecture_22.html">HTML</a> & <a href="js_lecture_22.css">CSS</a> & <a href="js_lecture_22.js">Javascript</th>
+    </tr>
     </tr>
     <tr>
     <th>Lesson 23</th>
-    <th><a href=""></a></th>
+    <th><a href="js_lecture_23.html">Variable Score</a></th>
     <th></th>
     </tr>
     <tr>
