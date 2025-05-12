@@ -318,12 +318,12 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 23</th>
-    <th><a href="js_lecture_23.html">Variable Score</a></th>
-    <th></th>
+    <th><a href="js_lecture_23.html">Variable Scope</a></th>
+    <th>The difference between Local and Global variable scope.<br>Files: <a href="js_lecture_23.html">HTML</a> & <a href="js_lecture_23.css">CSS</a> & <a href="js_lecture_23.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 24</th>
-    <th><a href=""></a></th>
+    <th><a href="">Temperature Conversion Program</a></th>
     <th></th>
     </tr>
     <tr>

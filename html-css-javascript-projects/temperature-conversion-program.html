@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="temperature-conversion-program.css">
+    <title>Temperature and Distance Conversion Program</title>
+</head>
+<body>
+    <h2>Temperature & Distance & Weight Converter Program</h2>
+    
+    <div id="box">
+        <div id="temp-box">
+            <h3>Convert the Temperature</h3>
+            <input type="radio" name="temp" id="celsius">
+            <label for="celsius">Fahrenheit to Celsius</label><br>
+            
+            <input type="radio" name="temp" id="fahrenheit">
+            <label for="fahrenheit">Celsius to Fahrenheit</label><br><br>
+
+            <label for="temp">What is the Temperature?</label><br>
+            <input type="number" name="input-temp" id="temp"><br>
+
+            <p id="output_temp"></p><br>
+
+            <button id="submit_temp">Convert Temperature</button>
+            
+            <br>
+
+        </div>
+    </div>
+<br>
+        <div id="box">
+        <div id="distance-box">
+            <h3>Convert the Distance</h3>
+
+            <input type="radio" name="distance" id="km">
+            <label for="km">Miles to Kilometer</label><br>
+
+            <input type="radio" name="distance" id="mile">
+            <label for="mile">Kilometer to Miles</label><br><br>
+            
+            <label for="distance">What is the distance?</label><br>
+            <input type="number" name="input-distance" id="distance">
+
+            <p id="output_distance"></p><br>
+            <button id="submit_distance">Convert Distance</button>
+        </div>
+    </div>
+
+       <br>
+            <div id="box">
+        <div id="weight-box">
+            <h3>Convert the Weight</h3>
+
+            <input type="radio" name="weight" id="kgs">
+            <label for="kgs">Pounds to Kilograms</label><br>
+
+            <input type="radio" name="weight" id="lbs">
+            <label for="lbs">Kilograms to Pounds</label><br><br>
+            
+            <label for="weight">What is the weight?</label><br>
+            <input type="number" name="input-weight" id="weight">
+
+            <p id="output_weight"></p><br>
+            <button id="submit_weight">Convert Weight</button>
+        </div>
+    </div>
+    <br>
+
+
+    <script src="temperature-conversion-program.js"></script>
+
+</body>
+</html>

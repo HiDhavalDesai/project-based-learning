@@ -1,0 +1,78 @@
+*{
+    text-align: center;
+}
+
+#box{
+    padding-bottom: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #a2cedf;
+    display: block;
+    border: 1px solid black;
+    font-size: 1.3em;
+}
+
+/* Temp design */
+
+#temp{
+    font-size: 1.4em;
+}
+
+#submit_temp{
+    font-size: 1.2em;
+    height: 50px;
+    border-radius: 20%;
+    background-color: rgba(51, 255, 0, 0.651);
+}
+
+#submit_temp:hover{
+    background-color: rgba(118, 199, 98, 0.603);
+}
+
+#output_temp{
+    color: rgb(255, 0, 0);
+}
+
+/* Distance Design */
+
+#distance{
+    font-size: 1.4em;
+}
+
+#submit_distance{
+    font-size: 1.2em;
+    height: 50px;
+    border-radius: 30%;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+#submit_distance:hover{
+    color: black;
+    background-color: rgb(255, 255, 255);
+}
+
+#output_distance{
+    color: red;
+}
+
+
+/* weight design */
+#weight{
+    font-size: 1.4em;
+}
+
+#submit_weight{
+    font-size: 1.2em;
+    height: 50px;
+    border-radius: 35%;
+    background-color: gold;
+}
+
+#submit_weight:hover{
+    background-color: rgb(223, 211, 148);
+}
+
+#output_weight{
+    color: red;
+}

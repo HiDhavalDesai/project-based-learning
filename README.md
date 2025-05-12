@@ -12,12 +12,12 @@ These are all the projects I have created: <br>
         <tr>
         <td>Python</td>
         <td><a href="./python-projects/madlibs-game.py">Madlibs</a></td>
-        <td>You are asked multiple questions for inputs, which will then create a story.</td>
+        <td>You are asked multiple questions for inputs, which will then create a story. <br> Files: <a href="./python-projects/madlibs-game.py">Python</a></td>
         </tr>
         <tr>
         <td>HTML</td>
         <td><a href="./html-css-javascript-projects/lyrics.html">Lyrics</a></td>
-        <td>Creating a page for music Lyrics</td>
+        <td>Creating a page for music Lyrics. <br> Files: <a href="./html-css-javascript-projects/lyrics.html">HTML</a></td>
         </tr>
         <tr>
         <td>HTML & CSS</td>
@@ -40,9 +40,9 @@ These are all the projects I have created: <br>
         <td>The computer will pick a number randomly, and then you have to guess it. <br> Files: <a href="./html-css-javascript-projects/number-guessing-game.html">HTML</a> & <a href="./html-css-javascript-projects/number-guessing-game.css">CSS</a> & <a href="./html-css-javascript-projects/number-guessing-game.js">Javascript</a></td>
         </tr>
         <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>HTML & CSS & Javascript</td>
+        <td><a href="./html-css-javascript-projects/temperature-conversion-program.html">Temperature & Distance & Weight Converter Program</a></td>
+        <td>This is a Temperature & Distance & Weight Converter Program, we can convert temperatures from F to C or Miles to Kilometers or Pounds to Kilograms. <br> Files: <a href="./html-css-javascript-projects/temperature-conversion-program.html">HTML</a> & <a href="./html-css-javascript-projects/temperature-conversion-program.css">CSS</a> & <a href="./html-css-javascript-projects/temperature-conversion-program.js">Javascript</a></td>
         </tr>
         <tr>
         <td></td>
