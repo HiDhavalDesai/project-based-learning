@@ -323,12 +323,12 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 24</th>
-    <th><a href="">Temperature Conversion Program</a></th>
-    <th></th>
+    <th><a href="/html-css-javascript-lectures/js_lecture_24.html">Temperature Conversion Program</a></th>
+    <th>Creating a temperature converter from F to C or C to F. <br>Files: <a href="js_lecture_24.html">HTML</a> & <a href="js_lecture_24.css">CSS</a> & <a href="js_lecture_24.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 25</th>
-    <th><a href=""></a></th>
+    <th><a href="">Arrays</a></th>
     <th></th>
     </tr>
     <tr>
