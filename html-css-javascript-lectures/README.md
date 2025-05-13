@@ -328,12 +328,12 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 25</th>
-    <th><a href="">Arrays</a></th>
-    <th></th>
+    <th><a href="js_lecture_25.html">Arrays</a></th>
+    <th>A variable like structure that can hold more than 1 value. <br>Files: <a href="js_lecture_25.html">HTML</a> & <a href="js_lecture_25.css">CSS</a> & <a href="js_lecture_25.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 26</th>
-    <th><a href=""></a></th>
+    <th><a href="">Spread Operator</a></th>
     <th></th>
     </tr>
     <tr>
