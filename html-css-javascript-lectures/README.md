@@ -333,13 +333,13 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 26</th>
-    <th><a href="">Spread Operator</a></th>
-    <th></th>
+    <th><a href="./js_lecture_26.html">Spread Operator</a></th>
+    <th>Using 3 dots (...) you can iterate arrays and strings into different elements. <br>Files: <a href="js_lecture_26.html">HTML</a> & <a href="js_lecture_26.css">CSS</a> & <a href="js_lecture_26.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 27</th>
-    <th><a href=""></a></th>
-    <th></th>
+    <th><a href="js_lecture_27.html">Rest Parameters</a></th>
+    <th><br>Files: <a href="js_lecture_27.html">HTML</a> & <a href="js_lecture_27.css">CSS</a> & <a href="js_lecture_27.js">Javascript</th>
     </tr>
     <tr>
     <th>Lesson 28</th>
