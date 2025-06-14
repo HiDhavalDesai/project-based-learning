@@ -282,7 +282,7 @@ Resources: <br>
     </tr>
     <tr>
     <th>Lesson 16</th>
-    <th><a href="">Method Chaining</a></th>
+    <th><a href="./js_lecture_16.html">Method Chaining</a></th>
     <th>Being able to call one method after another in one line of code. <br>Files: <a href="js_lecture_16.html">HTML</a> & <a href="js_lecture_16.css">CSS</a> & <a href="js_lecture_16.js">Javascript</th>
     </tr>
     <tr>
