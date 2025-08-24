@@ -15,7 +15,10 @@
 /* Temp design */
 
 #temp{
-    font-size: 1.4em;
+    overflow: hidden;
+    font-size: 1.2em;
+    width: 85%;
+
 }
 
 #submit_temp{
@@ -37,6 +40,7 @@
 
 #distance{
     font-size: 1.4em;
+        width: 85%;
 }
 
 #submit_distance{
@@ -60,6 +64,7 @@
 /* weight design */
 #weight{
     font-size: 1.4em;
+        width: 85%;
 }
 
 #submit_weight{
