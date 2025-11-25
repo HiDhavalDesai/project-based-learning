@@ -1,8 +1,8 @@
 ## Welcome to my Project Based Learning Repository.
 I am a self-taught Engineer.<br>
-Based in New York. I create small programs which will allow me to learn to be a better coder.<br>
+I create small programs which will allow me to learn to be a better coder.<br>
 We all start at the beginning, this is my starting line.<br>
-Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn</a> |
+Feel free to connect with me on: <a href="https://www.linkedin.com/in/hidhavaldesai/">LinkedIn</a> | <a href="https://www.youtube.com/channel/UCUWSDusbJQcD1U-tJDPPVGg/">Youtube</a> | <a href="https://www.instagram.com/hidhavaldesai/">Instagram</a>
 <br><br>
 These are all the projects I have created: <br>
 <table border="1">
